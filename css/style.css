@@ -1,0 +1,31 @@
+.poweredBy {
+    font-size: x-small;
+    text-align: center;
+    position:fixed;
+    padding: 15px;
+    margin-bottom: 0px;
+    left: 0px;
+    bottom: 0px;
+    height: 0px;
+    width: 100%;
+    background-color: white;
+}
+.back {
+    position:fixed;
+    left:15px;
+    bottom:15px;
+    height:10px;
+    width:100%;
+}
+.meWayPortfolioUl {
+    display: block;
+}
+.meWayPortfolioLi {
+    display: flex;
+}
+.pLi {
+    flex: 1;
+}
+.pLiPl {
+    flex: 3;
+}
