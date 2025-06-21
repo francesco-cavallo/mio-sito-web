@@ -32,3 +32,8 @@ body {
 .pLiPl {
     flex: 3;
 }
+.paypalMe {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
